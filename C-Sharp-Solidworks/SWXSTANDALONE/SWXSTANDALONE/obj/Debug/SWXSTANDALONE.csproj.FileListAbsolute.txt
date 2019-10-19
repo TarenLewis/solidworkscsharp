@@ -1,1 +1,10 @@
 C:\Users\taren\Documents\Internship\SolidWorks\API\C# project Videos\SWXSTANDALONE\SWXSTANDALONE\bin\Debug\SWXSTANDALONE.exe.config
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\bin\Debug\SWXSTANDALONE.exe.config
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.csprojResolveAssemblyReference.cache
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.Properties.Resources.resources
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.csproj.GenerateResource.Cache
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\bin\Debug\SWXSTANDALONE.exe
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\bin\Debug\SWXSTANDALONE.pdb
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.exe
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.pdb
+C:\Users\taren\Documents\Internship\SolidWorks\API\CSharpProject\C-Sharp-Solidworks\SWXSTANDALONE\SWXSTANDALONE\obj\Debug\SWXSTANDALONE.Form1.resources

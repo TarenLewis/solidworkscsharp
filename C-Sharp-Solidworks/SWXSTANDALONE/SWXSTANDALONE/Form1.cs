@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SolidWorks.Interop.sldworks;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,15 @@ namespace SWXSTANDALONE
         public Form1()
         {
             InitializeComponent();
+        }
+
+        SldWorks swApp;
+
+        private async void button1_Click(object sender, EventArgs e)
+        {
+            
+                swApp = await SolidworksSingle.getApplicationAsync();
+                Console.WriteLine("Opening SolidWorks...");
         }
     }
 }
